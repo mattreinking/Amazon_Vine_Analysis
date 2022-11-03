@@ -22,3 +22,4 @@ Jennifer has asked me to take on a large project. I have been tasked with analyz
   - 39% of non-Vine reviews were 5 stars  
 
 ## Summary
+The data above shows there is no positivity bias for reviews in the Vine program in terms of 5-star reviews. Out of the total 5-star reviews, only 1% more of reviews were non-Vine in comparison to Vine reviews. However, the sample sizes were extremely imbalanced. Only less than 100 reviews were from Vine out of over 40,000. Our results are inconclusive on bias. An additional analysis we could perform would be to gather data on 1-star reviews. Being able to calculate the statistics on negative reviews would help give better insight into any review bias there might be. It is quite possible that while Vine members may not be skewing reviews with positivity bias, there is a chance they may be compelled to minimize negativity bias. A lower percentage of negative reviews could still help products keep business afloat.
