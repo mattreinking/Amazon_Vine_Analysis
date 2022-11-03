@@ -7,9 +7,10 @@ Jennifer has asked me to take on a large project. I have been tasked with analyz
 ## Results
 - How many Vine reviews and non-Vine reviews were there?
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? 
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?  
+![image](https://user-images.githubusercontent.com/86776606/199826329-b5c4311c-504b-4eff-9263-2ab308fd4f18.png)
 
 
 ## Summary
